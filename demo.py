@@ -5,8 +5,8 @@ inaltime = 145
 varsta = 23
 greutate = 45
 nume = "Alexa"
-
-print(f"Numele este {nume}, am inaltimea {inaltime}, greutatea {greutate}")
+prenume = "Daniela"
+print(f"Numele este {nume},am inaltimea {inaltime}, greutatea {greutate}")
 
 imc = (varsta + inaltime) / greutate
 
